@@ -33,6 +33,6 @@ features:
 
 
 ## 公众号
-加微信交流群，关注公众号⌈程序饲养员⌋, 回复⌈加群⌋即可。
+入群请加v: code2c，回复⌈加群⌋即可。
 
-![image.png](/img/94f9798057ad0bfa60760ad82627235.jpg)
+<img height="400px" src="../public/img/8b7f3e339f07a43d66dd696a3c66858.jpg">
